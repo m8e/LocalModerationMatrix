@@ -1,3 +1,6 @@
+https://www.reddit.com/r/matrixdotorg/comments/1rsa729/localmoderationmatrix_cli_moderation_tool_for/
+
+
 # Local Moderation for Matrix
 
 CLI tool for bulk message deletion and media cleanup in Matrix rooms. Supports E2EE.
